@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-image:url("fondo.jpg");
+background-repeat:repeat;}
+
+h1 {font-family:"Broadway"; font-size:40; color:aliceblue; background:saddlebrown;}
+h2 {font-family:"Comic Sans MS"; font-size:18px; color:black; background-color:antiquewhite;}
+h10 {font-family:"Humanst521 BT";font-size:12px; color:black; background-color:#0FF;}
+h11 {font-family:"Humanst521 BT";font-size:12px; color:black; background-color:#FF0;}
